@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import { trendingProducts } from "../../constant";
 import Card from "../../components/shared/Card";
 import { IProduct } from "../../types";

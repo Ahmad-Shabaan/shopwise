@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import { contactIcons } from "../../constant";
 import { IContact } from "../../types";
 
